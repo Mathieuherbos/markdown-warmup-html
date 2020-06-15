@@ -33,3 +33,14 @@ a:visited
 {
     color: grey;
 }
+
+img:hover
+{
+    transform: scaleX(-1);
+}
+
+img
+{
+    height: 60px;
+    width: 60px;
+}
