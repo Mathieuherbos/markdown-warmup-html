@@ -1,13 +1,17 @@
+
+
 h1
 {
     background-color: lightsteelblue;
     text-align: center;
+    border : 3px #436D91 solid;
+    border-radius: 5px;
 }
 
 .markdown
 {
-color: lightcoral;
-font-style: italic;
+    color: lightcoral;
+    font-style: italic;
 }
 
 *
@@ -18,4 +22,14 @@ font-style: italic;
 body
 {
     background-color: lightslategrey;
+}
+
+a:hover
+{
+    color: #6666ff;
+}
+
+a:visited
+{
+    color: grey;
 }
