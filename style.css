@@ -41,6 +41,11 @@ img:hover
 
 img
 {
-    height: 60px;
-    width: 60px;
+    height: 200px;
+    width: 200px;
+}
+
+ul
+{
+    align-content: center;
 }
