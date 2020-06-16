@@ -56,8 +56,3 @@ ol
     list-style-position: inside;
 }
 
-li
-{
-    flex-direction: row;
-    align-items: center;
-}
